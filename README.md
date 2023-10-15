@@ -1,15 +1,6 @@
-# Interview Coding Base
 
-Hi there!
 
-Looks like you already nailed the first part of this challenge - finding this repo. This repo contains everything you need to take our take-home assignment.
-
-Our product is all about helping content creators to soundtrack their stories. Part of this is making it easy for users to save music that they like. Your job is to build a playlist feature to solve this.
-
-To help you get started we have set up an application that gets some of our top tracks from a database and displays them on a page. You can then extend upon this application as you see fit to build your feature.
-
-## The project
-Below, we have defined what is required of your project, since we believe this will serve as a good basis for you to show your problem solving skills and describe your reasoning and decisions.
+## The sound track project
 
 - Create, delete and list playlists
 - Add and remove tracks to a playlist
